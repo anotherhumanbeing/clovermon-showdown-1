@@ -32170,7 +32170,7 @@ export const Pokedex: { [speciesid: string]: SpeciesData } = {
 		types: ["Fire", "Steel"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 95, atk: 113, def: 101, spa: 78, spd: 88, spe: 50},
-		abilities: {0: "Blaze", H: "Flame Body", S: "Regenerator"},
+		abilities: {0: "Blaze", H: "Flash Fire", S: "Regenerator"},
 		heightm: 2.3,
 		weightkg: 666,
 		color: "Gray",
